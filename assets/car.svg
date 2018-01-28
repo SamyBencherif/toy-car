@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4839">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4795" x1="294.49" x2="271.9" y1="106.45" y2="-.54506" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4839"/>
+  <linearGradient id="linearGradient4795-2" x1="294.49" x2="271.9" y1="106.45" y2="-.54506" gradientTransform="matrix(-1 0 0 1 608.28 3.4524)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4839"/>
+  <radialGradient id="radialGradient4841" cx="291.45" cy="82.725" r="27.186" gradientTransform="matrix(.6129 0 0 .53763 106.39 29.772)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4839"/>
+  <radialGradient id="radialGradient4841-2" cx="291.45" cy="82.725" r="27.186" gradientTransform="matrix(.6129 0 0 .53763 145.27 28.018)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4839"/>
+  <clipPath id="clipPath4952">
+   <use width="100%" height="100%" xlink:href="#g4948"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <rect x="243.25" y="-22.484" width="220.76" height="325.77" fill="#71d598"/>
+  <g transform="translate(-200.09 4.9609)"></g>
+  <g transform="translate(-186.45 154.43)" opacity=".207">
+   <g clip-path="url(#clipPath4952)">
+    <g id="g4948">
+     <g transform="translate(-47.941 -1.1693)">
+      <path d="m145.95 73.984c35.559-0.58464 36.351 16.857 36.714 54.383 0 0 27.526 12.016 11.816 13.398l-11.489 1.0106c2.088 96.1 2.8483 95.785-37.042 95.25-1.362-65.047 0-116.42 0-164.04z" stroke="#000" stroke-opacity=".29858" stroke-width="2.865"/>
+      <path d="m144.04 74.105c-35.559-0.58464-35.937 18.097-36.714 54.383 0 0-27.526 12.016-11.816 13.398l11.489 1.0106c-2.088 96.1-2.8483 95.785 37.042 95.25 1.362-65.047 0-116.42 0-164.04z" stroke="#000" stroke-opacity=".29858" stroke-width="2.865"/>
+     </g>
+    </g>
+   </g>
+   <rect x="90.586" y="73.194" width="12.075" height="163.12" opacity="1" stroke="#000" stroke-width=".76001"/>
+  </g>
+  <g transform="translate(-197.61 2.4805)">
+   <path d="m278.88 86.525-30.402-96.468 46.188-5.2619 1.1693 99.391z" fill="url(#linearGradient4795)" opacity=".619"/>
+   <path d="m329.4 89.978 30.402-96.468-46.188-5.2619-1.1693 99.391z" fill="url(#linearGradient4795-2)" opacity=".619"/>
+   <g transform="translate(0 1.5129e-6)">
+    <g>
+     <path d="m306.92 74.75c35.559-0.58464 36.351 16.857 36.714 54.383 0 0 27.526 12.016 11.816 13.398l-11.489 1.0106c2.088 96.1 2.8483 95.785-37.042 95.25-1.362-65.047 0-116.42 0-164.04z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.865"/>
+     <path d="m305 74.871c-35.559-0.58464-35.937 18.097-36.714 54.383 0 0-27.526 12.016-11.816 13.398l11.489 1.0106c-2.088 96.1-2.8483 95.785 37.042 95.25 1.362-65.047 0-116.42 0-164.04z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.865"/>
+     <path d="m305.4 118.67c23.151 0.29432 29.352 3.8951 29.352 3.8951l1.2402 16.927s-9.8924-1.401-30.592-1.4009c-19.017 1e-5 -29.352 1.6674-29.352 1.6674l1.2402-17.473s6.19-3.319 28.112-3.615z" fill="#fff" stroke="#fff" stroke-width="1.7997"/>
+    </g>
+    <path d="m289.88 213.86-9.7256 12.092s8.4092 5.9062 26.604 5.4167c19.007-0.51134 25.945-4.7507 25.945-4.7507l-9.5085-12.778s-4.0474 2.5215-17.605 2.5215c-11.576 0-15.71-2.5012-15.71-2.5012z" fill="#fff" stroke="#000" stroke-width=".23009px"/>
+   </g>
+   <ellipse cx="285.02" cy="74.248" rx="16.663" ry="14.616" fill="url(#radialGradient4841)" opacity=".35"/>
+   <ellipse cx="323.9" cy="72.494" rx="16.663" ry="14.616" fill="url(#radialGradient4841-2)" opacity=".35"/>
+  </g>
+ </g>
+</svg>

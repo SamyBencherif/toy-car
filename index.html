@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Finger Drift</title>
+
+	<style>
+		#carStats {
+			position: absolute;
+			right: 10px;
+			top: 10px;
+			width: 240px;
+			background-color: rgba(0, 0, 0, .5);
+			color: white;
+			padding: 5px;
+			font-family: 'Courier New', Courier, monospace;
+		}
+
+		#gameView {
+			width: 100vw;
+			height: 100vh;
+			background-color: rgb(122, 89, 145);
+		}
+
+		body {
+			margin: 0px;
+			overflow: hidden;
+		}
+	</style>
+</head>
+
+<body>
+	<script src="./node_modules/jquery/dist/jquery.min.js"></script>
+	<!--<script src="./build/bundle.js"></script>-->
+	<script src="game.js"></script>
+	<canvas id="gameView"></canvas>
+	<div id="carStats"></div>
+</body>
+
+</html>
