@@ -176,6 +176,9 @@ document.body.addEventListener('keydown', function (ev) {
 
 	if (ev.keyCode == 40)
 		k_down = true;
+	
+	// don't scroll if displayed in, say, an iframe
+	ev.stopPropagation();
 
 })
 
@@ -191,7 +194,9 @@ document.body.addEventListener('keyup', function (ev) {
 
 	if (ev.keyCode == 40)
 		k_down = false;
-
+	
+	// don't scroll if displayed in, say, an iframe
+	ev.stopPropagation();
 })
 
 //main game loop
